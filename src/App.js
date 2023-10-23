@@ -13,7 +13,7 @@ function App() {
           Weather App
         </a>{" "}
          {" | "}Developed by{" "}
-        <a target="_blank" href="https://www.gauravghai.dev/">
+        <a target="_blank" href="https://www.saikat.dey/">
           Saikat Dey
         </a>{" "}
       </div>
